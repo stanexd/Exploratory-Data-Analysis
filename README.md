@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis
-В данном репозитории будут храниться проекты по разведочному анализу
+This repository will store projects for EDA
